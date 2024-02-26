@@ -8,7 +8,7 @@ p3 = Point(x=10, y=0)
 print(p1, p2, p3)
 
 t1 = Triangle(p1, p2, p3)
-#t1.show_points()
-#t1.area()
+t1.show_points()
+t1.area()
 
 
